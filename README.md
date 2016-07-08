@@ -1,18 +1,18 @@
 Issues
 ======
 
-This is a public issue-tracking repository for bugs and confirmed features related to CraftCadia.
+This is a public issue-tracking repository for bugs and confirmed features related to Flowz.
 
 ### Important:
 
 If you find a potential exploit or vulnerability, please exercise reasonable disclosure:
 
-1. Privately [contact CraftCadia staff](mailto:fuzzybot@arenaga.me?subject=Important%20security%20vulnerability) about the issue.
-2. **Do not** publicly disclose the issue immediately (give CraftCadia staff adequate time to respond to and address your inquiry before you disclose the vulnerability publicly).
+1. Privately [contact Flowz staff](mailto:fuzzybot@arenaga.me?subject=Important%20security%20vulnerability) about the issue.
+2. **Do not** publicly disclose the issue immediately (give Flowz staff adequate time to respond to and address your inquiry before you disclose the vulnerability publicly).
 
 ## Submitting
 
-Issues can be [submitted](https://github.com/CraftCadiaMC/Issues/issues/new) at the [issue tracker](https://github.com/CraftCadiaMC/Issues/issues).
+Issues can be [submitted](https://github.com/FlowzMC/Issues/issues/new) at the [issue tracker](https://github.com/FlowzMC/Issues/issues).
 
 ### Do:
 
